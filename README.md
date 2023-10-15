@@ -10,7 +10,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Front-end developer
 - Playing CTF's at spare time
 - Currently exploring full stack Web Dev field
 - Personal website [link]() --will be updated soon
