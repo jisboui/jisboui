@@ -14,7 +14,7 @@
 - Playing CTF's at spare time
 - Currently exploring full stack Web Dev field
 - Portfolio website [link]() <!--- will be updated soon -->
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]() <!--- will be updated soon -->
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://resume.io/r/M60pVyTpE) <!--- will be updated soon -->
 
 <br><br>
 
