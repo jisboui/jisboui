@@ -10,9 +10,9 @@
 
 <br>
 
-- A passionate Front-end developer
+- A research masters AI student at BTU Cottbus-Senftenberg
 - Playing CTF's at spare time
-- Currently exploring full stack Web Dev field
+- Experience in full stack Web Dev
 - Portfolio website [link]() <!--- will be updated soon -->
 <!--- - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://resume.io/r/M60pVyTpE)  will be updated soon -->
 
